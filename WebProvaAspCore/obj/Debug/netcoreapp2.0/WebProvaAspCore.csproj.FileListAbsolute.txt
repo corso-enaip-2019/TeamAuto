@@ -1,0 +1,11 @@
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.deps.json
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.runtimeconfig.json
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.runtimeconfig.dev.json
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.dll
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.pdb
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.csprojAssemblyReference.cache
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.csproj.CoreCompileInputs.cache
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.AssemblyInfoInputs.cache
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.AssemblyInfo.cs
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.dll
+c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.pdb

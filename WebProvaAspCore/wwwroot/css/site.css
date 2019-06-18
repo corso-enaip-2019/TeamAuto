@@ -1,0 +1,37 @@
+﻿
+p {
+    color: white;
+    text-align: center;
+}
+
+#sidebar-wrapper {
+    width: 15%;
+    height: 100%;
+    padding: 20px 0px 0px 0px;
+    background-color: #808080;
+}
+
+.nav sidebar-nav {
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    height: 50px;
+    display: block;
+    padding: 8px 16px;
+    vertical-align: central;
+    line-height: 35px;
+    color: white;
+}
+
+.nav li a:hover {
+    background-color: #cec7c7;
+}
+
+.imgpng {
+    width: 30px;
+    height: 30px;
+    margin: 0px 10px 0px 0px;
+}
+
