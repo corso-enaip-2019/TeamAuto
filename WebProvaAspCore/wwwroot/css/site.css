@@ -23,6 +23,7 @@ li a {
     vertical-align: central;
     line-height: 35px;
     color: white;
+    font-size: 20px;
 }
 
 .nav li a:hover {
@@ -30,8 +31,23 @@ li a {
 }
 
 .imgpng {
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     margin: 0px 10px 0px 0px;
 }
 
+#firstRow {
+    margin: 100px;
+}
+
+.anchorhomefirst {
+    margin-left: 14%;
+}
+
+.anchorhomesecond {
+    margin-left: 50px;
+}
+
+.imghome {
+    border: initial;
+}

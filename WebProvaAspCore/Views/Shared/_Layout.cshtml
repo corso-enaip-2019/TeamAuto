@@ -23,25 +23,28 @@
                 <p>Menu</p>
             </li>
             <li>
-                <a asp-controller="Home" asp-action="Index" /> <img class="imgpng" src="~/images/Home.png" /> Home</a>
+                <a asp-controller="Home" asp-action="Index"> <img class="imgpng" src="~/images/Home.png" /> Home</a>
             </li>
             <li>
-                <a asp-controller="Home" asp-action="About" /> <img class="imgpng" src="~/images/Car (2).png" /> Veicoli</a>
+                <a asp-controller="Home" asp-action="About"> <img class="imgpng" src="~/images/Car (2).png" /> Veicoli</a>
             </li>
             <li>
-                <a asp-controller="Home" asp-action="About" /> <img class="imgpng" src="~/images/Stato.png" /> Stato</a>
+                <a asp-controller="Home" asp-action="About"> <img class="imgpng" src="~/images/Stato.png" /> Stato</a>
             </li>
             <li>
-                <a asp-controller="Home" asp-action="About" /> <img class="imgpng" src="~/images//Scadenze.png" /> Scadenze</a>
+                <a asp-controller="Home" asp-action="About"> <img class="imgpng" src="~/images//Scadenze.png" /> Scadenze</a>
             </li>
             <li>
-                <a asp-controller="Home" asp-action="About" /> <img class="imgpng" src="~/images/Manutenzioni.png" /> Manutenzioni</a>
+                <a asp-controller="Home" asp-action="About"> <img class="imgpng" src="~/images/Manutenzioni.png" /> Manutenzioni</a>
+            </li>
+            <li>
+                <a asp-controller="Home" asp-action="About"> <img class="imgpng" src="~/images/Utilizzo.png" /> Utilizzo</a>
             </li>
         </ul>
     </nav>
     <div class="container body-content" style="margin-left:15%">
         @RenderBody()
-        
+
     </div>
 
     <environment include="Development">
@@ -68,3 +71,4 @@
     @RenderSection("Scripts", required: false)
 </body>
 </html>
+

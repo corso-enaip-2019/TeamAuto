@@ -9,3 +9,14 @@ c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp
 c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.AssemblyInfo.cs
 c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.dll
 c:\users\stage\source\repos\WebProvaAspCore\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.pdb
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.deps.json
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.runtimeconfig.json
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.runtimeconfig.dev.json
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.dll
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\bin\Debug\netcoreapp2.0\WebProvaAspCore.pdb
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.csprojAssemblyReference.cache
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.AssemblyInfoInputs.cache
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.AssemblyInfo.cs
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.dll
+C:\Users\Babbio\source\repos\TeamAuto\WebProvaAspCore\obj\Debug\netcoreapp2.0\WebProvaAspCore.pdb
