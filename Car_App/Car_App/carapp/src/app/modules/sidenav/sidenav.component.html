@@ -1,0 +1,40 @@
+<mat-sidenav-container >
+    <mat-sidenav opened="true" mode="side" #snav class="nav">
+    <mat-nav-list>
+        <mat-list-item>
+                
+        </mat-list-item>
+        <mat-list-item>
+            <mat-icon>home</mat-icon><div matline routerLink='home' routeLinkActive="active">&nbsp;&nbsp;Home</div>
+        </mat-list-item>
+        <mat-list-item>
+                <mat-icon>drive_eta</mat-icon><div matline  routerLink='cars' routeLinkActive="active">&nbsp;&nbsp;Veicoli</div>
+        </mat-list-item>
+        <mat-list-item>
+                <mat-icon>restore</mat-icon><div matline routerLink='state'>&nbsp;&nbsp;Stato</div>
+        </mat-list-item>
+        <mat-list-item>
+                <mat-icon>query_builder</mat-icon><div matline routerLink='expiry' routeLinkActive="active">&nbsp;&nbsp;Scadenze</div>
+        </mat-list-item>
+        <mat-list-item>
+                <mat-icon>navigation</mat-icon><div matline routerLink='utilization' routeLinkActive="active">&nbsp;&nbsp;Utilizzo</div>
+        </mat-list-item>
+    </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content class=content>
+        <mat-toolbar class=toolbar>
+            <button
+            type="button"
+            aria-label="Toggle sidenav"
+            mat-icon-button
+            (click)="snavToggle(snav)"
+            >
+            <mat-icon>menu</mat-icon>
+            </button>
+            <span fxFlex>
+                <div>{{title}}</div>
+            </span>
+        </mat-toolbar>
+       <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

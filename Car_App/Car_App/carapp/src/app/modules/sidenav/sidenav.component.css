@@ -1,0 +1,19 @@
+.nav{
+    height: 100%;
+    position:Fixed;
+}
+
+.content{
+    height: 100%;
+    width:100%;
+    position: fixed;
+    background-color: white;
+}
+.toolbar{
+    height: 55px;
+}
+
+.active-link {
+    font-weight: bold !important;
+    border: none;
+  }
